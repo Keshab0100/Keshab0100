@@ -10,10 +10,9 @@
 - 📫 Mail - keshab0121@gmail.com
 
 ### Connect with me:
-[<img src="https://img.icons8.com/ios-glyphs/50/000000/linkedin.png"/>](https://www.linkedin.com/in/keshab-kataruka-3a3060207/)
+[<img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>](https://www.linkedin.com/in/keshab-kataruka-3a3060207/)
 [<img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>](https://www.instagram.com/_keshabbb_/)
 
-<br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keshab0100&show_icons=true&theme=radical)
 
