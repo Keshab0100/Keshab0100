@@ -1,10 +1,27 @@
 ### Hi there🙋, Keshab here!
 
-![view-counter](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
+![view-counter](https://komarev.com/ghpvc/?username=Keshab0100&color=blueviolet)
 
 ## I'm a student, and love to learn new stuff.
 - 🎓 A Computer Science student at DSCE (2020-2024).
 - 🪴 Trying to learn everthing I can.
-- 🥅 Goal is to contribute more to open source.
+- 🥅 Trying to contribute more to open source.
 - 🎶 Fun Fact - Love music
+- 📫 Mail - keshab0121@gmail.com
 
+### Connect with me:
+<img src="https://img.icons8.com/ios-glyphs/50/000000/linkedin.png"/>[linkedin]
+<img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>[Instagram]
+
+<br><br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keshab0100&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keshab0100&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Keshab0100&theme=dark)](https://git.io/streak-stats)
+
+
+
+[linkedin] : https://www.linkedin.com/in/keshab-kataruka-3a3060207/
+[Instagram] : https://www.instagram.com/_keshabbb_/
