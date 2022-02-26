@@ -10,8 +10,8 @@
 - 📫 Mail - keshab0121@gmail.com
 
 ### Connect with me:
-<img src="https://img.icons8.com/ios-glyphs/50/000000/linkedin.png"/>[linkedin]
-<img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>[Instagram]
+[<img src="https://img.icons8.com/ios-glyphs/50/000000/linkedin.png"/>](https://www.linkedin.com/in/keshab-kataruka-3a3060207/)
+[<img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>](https://www.instagram.com/_keshabbb_/)
 
 <br><br>
 
@@ -20,8 +20,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keshab0100&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Keshab0100&theme=dark)](https://git.io/streak-stats)
-
-
-
-[linkedin] : https://www.linkedin.com/in/keshab-kataruka-3a3060207/
-[Instagram] : https://www.instagram.com/_keshabbb_/
