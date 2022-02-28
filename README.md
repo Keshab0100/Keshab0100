@@ -12,7 +12,7 @@
 [<img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>](https://www.linkedin.com/in/keshab-kataruka-3a3060207/)
 [<img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>](https://www.instagram.com/_keshabbb_/)
 
-![view-counter](https://komarev.com/ghpvc/?username=Keshab0100&color=mediumvioletred)
+![view-counter](https://komarev.com/ghpvc/?username=Keshab0100&theme=radical)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keshab0100&show_icons=true&theme=radical)
 
