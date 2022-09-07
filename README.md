@@ -7,7 +7,7 @@
 - 🥅 Trying to contribute more to open source.
 - 🎶 Fun Fact - Love music
 - 📫 Mail - keshab0121@gmail.com
-https://assets2.lottiefiles.com/packages/lf20_ctqgzmyh.json
+
 ### Connect with me:
 [<img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>](https://www.linkedin.com/in/keshab-kataruka-3a3060207/)
 [<img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>](https://www.instagram.com/_keshabbb_/)
