@@ -14,8 +14,8 @@
 
 ![view-counter](https://komarev.com/ghpvc/?username=Keshab0100&theme=radical)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keshab0100&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats-37eq70jyu-keshab0100.vercel.app/api?username=Keshab0100&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keshab0100&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-37eq70jyu-keshab0100.vercel.app/api/top-langs/?username=Keshab0100&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Keshab0100&theme=radical)](https://git.io/streak-stats)
