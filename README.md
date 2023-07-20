@@ -14,7 +14,7 @@
 
 ![view-counter](https://komarev.com/ghpvc/?username=Keshab0100&theme=radical)
 
-![Anurag's GitHub stats](https://github-readme-stats-keshab0100.vercel.app/api?username=Keshab0100&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats-65qxscwr5-keshab0100.vercel.app/api?username=Keshab0100&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats-keshab0100.vercel.app//api/top-langs/?username=Keshab0100&layout=compact&theme=radical)](https://github.com/Keshab0100/Github_readme_stats)
 
