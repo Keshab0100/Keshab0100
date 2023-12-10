@@ -1,4 +1,4 @@
-### Hi there🙋, Keshab here!
+### Hey 🙋, Keshab here!
 
 
 ## I'm a student, and love to learn new stuff.
