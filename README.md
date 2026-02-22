@@ -1,21 +1,57 @@
-### Hey 🙋, Keshab here!
+<h1 align="center">hey 👋 i'm keshab</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="450"/>
+</p>
+
+---
+
+### 🧠 about
+
+just a developer trying to build cool stuff  
+sometimes it works  
+sometimes it becomes a learning experience™
+
+- writing code
+- breaking things
+- fixing things
+- repeating the cycle
+
+---
+
+### ⚡ currently
+
+- building random ideas that feel interesting
+- learning things i probably should've learned earlier
+- optimizing life like it's production code
+- drinking unhealthy amounts of chai ☕
+
+---
+
+### 🛠️ tools i usually touch
+
+javascript | python | react | node
+apis | databases | cloud stuff
+git commits at questionable hours
 
 
-## I'm a student, and love to learn new stuff.
-- 🎓 A Computer Science student at DSCE (2020-2024).
-- 🪴 Trying to learn everthing I can.
-- 🥅 Trying to contribute more to open source.
-- 🎶 Fun Fact - Love music
-- 📫 Mail - keshab0121@gmail.com
+---
 
-### Connect with me:
-[<img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>](https://www.linkedin.com/in/keshab-kataruka-3a3060207/)
-[<img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>](https://www.instagram.com/_keshabbb_/)
+### 🧩 philosophy
 
-![view-counter](https://komarev.com/ghpvc/?username=Keshab0100&theme=radical)
+> ship first  
+> overthink later  
 
-<!--![Anurag's GitHub stats](https://github-readme-stats-new-six.vercel.app//api?username=Keshab0100&show_icons=true&theme=radical)
+---
 
-[![Top Langs](https://github-readme-stats-new-six.vercel.app///api/top-langs/?username=Keshab0100&layout=compact&theme=radical)](https://github.com/Keshab0100/Github_readme_stats)-->
+### 🌙 fun fact
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Keshab0100&theme=radical)](https://git.io/streak-stats)
+half my bugs disappear after restarting the server.
+
+the other half become features.
+
+---
+
+<p align="center">
+  <i>if it works, don't touch it.</i>
+</p>
